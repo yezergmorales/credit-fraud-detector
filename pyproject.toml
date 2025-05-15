@@ -19,6 +19,7 @@ dependencies = [
     "python-dotenv",
     "ruff",
     "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
     "tensorflow>=2.19.0",
 ]
 
